@@ -354,6 +354,14 @@ html {
     background-color: #5c5a5a89;
 }
 
+.rac{
+    position: absolute;
+    left: 385px;
+    padding: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #5c5a5a89;
+}
+
 .blender{
     display: flex;
     border: 2px solid black;
