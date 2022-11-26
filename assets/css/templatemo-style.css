@@ -348,7 +348,7 @@ html {
 
 .passion{
     position: absolute;
-    left: 350px;
+    left: 36%;
     padding: 20px;
     border: 2px solid rgb(255, 255, 255);
     background-color: #5c5a5a89;
@@ -356,7 +356,8 @@ html {
 
 .rac{
     position: absolute;
-    left: 385px;
+    top: 20%;
+    left: 39%;
     padding: 20px;
     border: 2px solid rgb(255, 255, 255);
     background-color: #5c5a5a89;
